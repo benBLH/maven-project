@@ -1,13 +1,19 @@
 package com.example;
 
+  /**
+  * c une classe
+  */
 
 public class Greeter {
-
+  /**
+  * c un constructeur
+  */
   
   public Greeter() {
 
   }
 
+  
   /**
   *@param   brzgrzgrsrzh
   *@return   dbsbsbsb
