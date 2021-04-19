@@ -18,14 +18,9 @@ public class Greeter {
   *@param   brzgrzgrsrzh
   *@return   dbsbsbsb
   */
-  
-   /**
-  *@param   brzgrzgrsrzh
-  *@return   dbsbsbsb
-  */
+
   
   public final String greet(final String someone) {
-    int v
     return String.format("Hello babacar, %s!", someone);
   }
 }
